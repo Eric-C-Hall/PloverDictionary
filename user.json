@@ -2,6 +2,7 @@
 "SKRAOEUT": "\\cite",
 "SREU/TER/PWEU": "Viterbi",
 "SREUT/ER/PWEU": "Viterbi",
+"SRER/HROG": "Verilog",
 "TAOU/TKAOU/ORPBG": "\\{\\color\\{orange\\} \\textbf\\{TODO: \\}\\}",
 "TEFT/ORPBG": "\\}\\{\\",
 "KAPB/SEL/-D": "cancelled",
@@ -9,6 +10,6 @@
 "PWAOEU/SKWREBGS": "bijection",
 "PWEUB/AOEU/TEPL": "\\bibitem",
 "PHR*UP": "{PLOVER:LOOKUP}",
-"ET/SET/RA*": "etc",
-"SRER/HROG": "Verilog"
+"HAPBD/WREUT/TEPB": "handwritten",
+"ET/SET/RA*": "etc"
 }
