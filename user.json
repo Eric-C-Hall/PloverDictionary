@@ -3,6 +3,10 @@
 "SREU/TER/PWEU": "Viterbi",
 "SREUT/ER/PWEU": "Viterbi",
 "SRER/HROG": "Verilog",
+"SAOU/PER/SRAOEU/SOR": "supervisor",
+"TKAOEU/REBGT": "direct",
+"TPHAOE/THEUPBG": "anything",
+"TRAEUR": "arbitrary",
 "TAOU/TKAOU/ORPBG": "\\{\\color\\{orange\\} \\textbf\\{TODO: \\}\\}",
 "TEFT/ORPBG": "\\}\\{\\",
 "KAPB/SEL/-D": "cancelled",
@@ -18,8 +22,6 @@
 "PHUPBG/ER": "munger",
 "HAPBD/WREUT/TEPB": "handwritten",
 "HOL/PHAEUBG": "Holmake",
-"ET/SET/RA*": "etc",
-"SAOU/PER/SRAOEU/SOR": "supervisor",
-"TKAOEU/REBGT": "direct",
-"TPHAOE/THEUPBG": "anything"
+"E/TPHAOUPL/RAEUT": "enumerate",
+"ET/SET/RA*": "etc"
 }
