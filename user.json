@@ -11,9 +11,9 @@
 "TEFT/ORPBG": "\\}\\{\\",
 "KAPB/SEL/-D": "cancelled",
 "KAPB/TKEU/TKAT/KHUR": "candidature",
-"KOPB/SRO/HRAOUGS/AL": "convolutional",
 "KAPBD/TKAT/KHUR": "candidature",
 "KAPBD/KHUR": "candidature",
+"KOPB/SRO/HRAOUGS/AL": "convolutional",
 "KOPB/SROFL": "convolve",
 "PWAOEU/SKWREBGS": "bijection",
 "PWEUB/AOEU/TEPL": "\\bibitem",
@@ -30,5 +30,6 @@
 "HOL/T-PL": "\\HOLtm{",
 "HOL/PHAEUBG": "Holmake",
 "E/TPHAOUPL/RAEUT": "enumerate",
+"ER/RORS": "errors",
 "ET/SET/RA*": "etc"
 }
